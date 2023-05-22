@@ -15,6 +15,7 @@ eventInfo:
       2022-12-30: because of silvester
     changes:
       2022-10-28: "moved to Hevelanium Retrocomputing"
+      2023-05-26: "+ celebracja pofestiwalowa"
 ---
 
 Pikniki Hackerspace Trójmiasto odbywają się w każdy ostatni piątek miesiąca.

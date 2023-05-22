@@ -1,6 +1,7 @@
 ---
 title: Picnic Hackerspace Trójmiasto
 tags: ["social"]
+url: /en/events/picnics
 ---
 
 Hackerspace Trójmiasto Picnics are held every last Friday of the month.

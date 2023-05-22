@@ -2,6 +2,18 @@
 title: "🤔💭💡🎾Idea Squash"
 tags: ["hs3", "pomysły", "Idea Squash"]
 featureImage: /images/wydarzenia/idea-squash.jpg
+eventInfo:
+  organizer:
+    name: Hackerspace Trójmiasto
+  dates:
+    # don't have a rule yet for every other month, so doing it manually
+    extra: 
+      2023-06-07 18:00-20:00: ""
+      2023-08-02 18:00-20:00: ""
+      2023-10-04 18:00-20:00: ""
+      2023-12-06 18:00-20:00: ""
+      2024-02-07 18:00-20:00: ""
+      2024-04-03 18:00-20:00: ""
 ---
 
 # Idea Squash
