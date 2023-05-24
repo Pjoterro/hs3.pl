@@ -10,6 +10,8 @@ eventInfo:
         starttime: 18:00
         endtime: 22:00
         rule: fourth Thursday of the month
+    changes:
+      2023-05-25->2023-05-18: Moved week earlier as to not be the day before the picnic
 ---
 
 Zapraszamy wszystkich na wspólne lutowanie, kodowanie, budowanie i eksperymentowanie.
