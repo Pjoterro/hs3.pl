@@ -15,4 +15,4 @@ eventInfo:
       2023-01-25:
 ---
 
-Wiecej szczegolow na Discord: https://discord.com/channels/762566311930101761/1052197079625252945
+Więcej szczegółów na Discord: https://discord.com/channels/762566311930101761/1052197079625252945
